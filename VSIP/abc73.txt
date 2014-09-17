@@ -1,0 +1,2 @@
+copy C:\progra~1\apache~1\tomcat~1.5\Lee_filter_img.jpg C:\progra~1\apache~1\tomcat~1.5\webapps\siplabs\high_pass_img.jpg
+copy C:\progra~1\apache~1\tomcat~1.5\original_img.jpg C:\progra~1\apache~1\tomcat~1.5\webapps\siplabs\out_original_img.jpg

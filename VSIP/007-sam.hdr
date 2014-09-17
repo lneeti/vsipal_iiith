@@ -1,0 +1,25 @@
+ENVI
+description = {
+  Spectral Angle Mapper Classification Result [Mon Aug 16 16:19:30 2010]}
+samples = 256
+lines   = 3232
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 11
+class lookup = {
+   0,   0,   0, 255,   0,   0,   0, 255,   0,   0,   0, 255, 255, 255,   0,
+   0, 255, 255, 255,   0, 255, 176,  48,  96,  46, 139,  87, 160,  32, 240,
+ 255, 127,  80}
+class names = {
+ Unclassified, wheat.txt:C2, Jawar.txt:C2, Channa.txt:C2, Tuar.txt:C2, 
+ Banana.txt:C2, Kardi.txt:C2, harvest.txt:C2, GV.txt:C2, NPV.txt:C2, 
+ Tar rd.txt:C2}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Sam (atmcorr_refl_007)}
+history = FLAASH 4.6 result (input file=E:\ravi\test007\spectral subset\sub007_158, template file=E:\ravi\test007\spectral subset\tile_template.txt

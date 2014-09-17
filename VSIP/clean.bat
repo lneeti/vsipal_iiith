@@ -1,0 +1,1 @@
+del "c:\uploads\kkt\out_*.*"
